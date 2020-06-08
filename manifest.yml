@@ -1,5 +1,0 @@
-applications:
-    - name: predictiveassetmaintenance
-      random-route: true
-      memory: 128M
-  
